@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{00a9dd8087f90192af5f02f96b390f12, @popperjs/core, bb98860203, bootstrap, bootstrap-icons}" />
+    <includedPredefinedLibrary name="HTTP Response Handler" />
+  </component>
+</project>

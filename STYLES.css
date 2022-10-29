@@ -1,0 +1,96 @@
+body {
+    background-color: #222322 !important;
+}
+
+.shapka {
+    /*position: relative !important;*/
+    background-image: url("1.jpg");
+    background-size: 100% !important;
+    background-repeat: no-repeat !important;
+}
+
+.b2 {
+    position: absolute !important;
+    color: white;
+    z-index: 0;
+}
+
+h1 {
+    /*font-size: 120px !important;*/
+    font-family: Calibri;
+}
+
+.b3 {
+    position: absolute !important;
+    z-index: 1;
+}
+
+.ZabKray {
+    color: white !important;
+}
+.ZabKray p{
+    font-size: 1.8ch !important;
+}
+
+h2 {
+    font-size: 3vw !important;
+    font-family: Verdana !important;
+    font-weight: bold !important;
+    /*color: #54715e !important;*/
+    background-image: linear-gradient(to right, #abc8b3, #54715e);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
+p {
+    font-size: 1vw !important;
+    font-family: Verdana;
+    color: lightgray;
+}
+
+#bron {
+    color: white !important;
+    border-radius: 5px !important;
+    padding: 6px 12px !important;
+    background-color: #54715e !important;
+    border-style: none !important;
+}
+#bron :hover{
+    color: white !important;
+    background-color: #222322 !important;
+}
+h5{
+    font-weight: bold !important;
+    color: white !important;
+}
+.second{
+        background-image: linear-gradient(to bottom, #222322, #54715e);
+
+}
+.last{
+    background-image: url("4.png");
+    background-repeat: repeat!important;
+    color: white !important;
+    background-size: 100% !important;
+}
+.last p{
+    font-size: 1.6vw !important;
+}
+
+#forma{
+    font-family: Verdana !important;
+    font-size: 3vw !important;
+    font-width: bold !important;
+    padding-top: 20vh !important;
+}
+
+#send{
+    background-color: #54715e;
+    color: white;
+    width: auto;
+}
+
+#send:hover{
+    background-color: #222322 !important;
+}
